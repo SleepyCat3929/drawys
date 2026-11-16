@@ -6,4 +6,6 @@
 
 <img src="eepy/nice_day.png"></img>
 
+<img src="eepy/night.png"></img>
+
 <img src="eepy/growy_car_long.png"></img>
